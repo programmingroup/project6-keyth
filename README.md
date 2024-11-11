@@ -20,6 +20,10 @@ To deploy my project on your machine, you must use the following commands:
 ```
 You can also visit the repository in Docker Hub: [here](https://hub.docker.com/repository/docker/keyth5/project6/general)
 
+##  Execution 🔗
+
+One time that execute the commands for Docker, you have that entered to: http://localhost:4567
+
 ## 🌍 Live Demo
 
 Visit the live preview to explore the project in real: [🔗clik ](https://project6-keyth-production.up.railway.app/)
